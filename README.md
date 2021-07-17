@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matintynn
 - 👀 I’m interested in UX/UI design and Frontend development 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
