@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Matin</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3></br> -->
+<h1 align="center">Hi 👋, I'm Matin</h1>
+<h3 align="center">A passionate frontend developer from Canada</h3></br>
 
 ### About me:
 - 🧑🏻‍💻 I’m a junior frontend developer
