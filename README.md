@@ -36,7 +36,7 @@
 <img align="left" alt="Photoshop icon" width="26px" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" />
 
 
-<!-- <br /> -->
+<br />
 
 <!-- --- -->
 <!---
