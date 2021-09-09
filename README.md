@@ -9,6 +9,9 @@
 - 🥅 2021 Goals: finish my 30 react projects
 <!-- - 📫 I can be reached at  -->
 
+### Feature:
+👉 Checkout my [30 React projects](https://github.com/matintynn/30-React-Projects)
+
 ### Connect with me:
 [<img align="left" alt="https://ndtruong1.myportfolio.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ndtruong1.myportfolio.com/)
 [<img align="left" alt="matintynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matin-truong-8b48901b3/)
