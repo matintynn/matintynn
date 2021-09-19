@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matin</h1>
+<h1 align="center">Hi 👋, I'm Matin, a self-taught frontend developer</h1>
 <h3 align="center">A passionate digital designer from Canada, I specialize in frontend development & UX/UI design</h3>
 
 ### About me:
