@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matin, a self-taught frontend developer</h1>
-<h3 align="center">A passionate digital designer from Canada, I specialize in frontend development & UX/UI design</h3>
+<h3 align="center">I specialize in frontend development & UX/UI design</h3>
 
 ### About me:
 - 🧑🏻‍💻 I’m a junior frontend developer and UX/UI designer
