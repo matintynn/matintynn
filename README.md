@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 I’m a junior frontend developer and UX/UI designer
 - 👀 I’m interested in UX/UI design and Frontend development 
 - 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking for frontend developer job opportunity
+<!-- - 💞️ I’m looking for frontend developer job opportunity -->
 - 🥅 2021 Goals: finish my 30 react projects, and to be assertive.
 <!-- - 📫 I can be reached at  -->
 
