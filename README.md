@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 <!-- --- -->
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=matintynn&show_icons=true&locale=en&layout=compact" alt="matintynn" /></p>
 <!-- </br> -->
-<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=matintynn&show_icons=true&locale=en" alt="matintynn" /></p> -->
+<p><img  src="https://github-readme-stats.vercel.app/api?username=matintynn&show_icons=true&locale=en" alt="matintynn" /></p>
 
