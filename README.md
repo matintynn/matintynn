@@ -1,20 +1,8 @@
-<h1 align="center">Hi 👋, I'm Matin, a self-taught frontend developer</h1>
-<h3 align="center">I specialize in frontend development & UX/UI design</h3>
+<h1 align="center">Hi 👋, I'm Matin, a self-taught frontend developer and UX/UI Designer</h1>
 
 ### About me:
-- 🧑🏻‍💻 I’m a junior frontend developer and UX/UI designer
-- 👀 I’m interested in UX/UI design and Frontend development 
 - 🌱 I’m currently learning React and MERN application
-💞️ I’m looking for frontend developer job opportunity
 <!-- - 📫 I can be reached at  -->
-
-### Feature:
-👉 Checkout my [30 React projects](https://github.com/matintynn/30-React-Projects)
-
-### Connect with me:
-[<img align="left" alt="https://ndtruong1.myportfolio.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ndtruong1.myportfolio.com/)
-[<img align="left" alt="matintynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matin-truong-8b48901b3/)
-</br>
 
 ### Languages, frameworks & libraries:
 
